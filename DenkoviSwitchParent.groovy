@@ -1,7 +1,7 @@
 /*
 DenkoviSwitch Parent
 24VAC Power \ DenkoviSwitch Web Gateway \ PoE \ Power loss results to all off \ closed
-Inital release 0.1.0 3-31-2021
+Inital release 0.1.0 3-31-2021 by Corey Clerico
 */
 
 
