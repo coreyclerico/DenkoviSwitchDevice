@@ -31,7 +31,7 @@ metadata {
     }
     preferences {
         input name: "denkovi_model", type: "text", title: "Denkovi Model", defaultValue: "smartDen IP-Maxi Module", required: false
-        input name: "denkovi_password", type: "text", title: "Denkovi Password", defaultValue: "Pool4Fun22", required: false
+        input name: "denkovi_password", type: "text", title: "Denkovi Password", defaultValue: "MyPWHere", required: false
         input name: "internal_ip", type: "text", title: "Internal IP", defaultValue: "172.16.1.192", required: false
         input name: "internal_port", type: "text", title: "Internal Port", defaultValue: "80", required: false
         input name: "switch1name", type: "text", title: "Switch 1 Name", defaultValue: "Denkovi Relay One", required: true
